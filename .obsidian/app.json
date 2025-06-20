@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "images",
+  "promptDelete": false,
+  "newFileLocation": "current"
+}

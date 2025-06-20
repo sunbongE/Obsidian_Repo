@@ -1,0 +1,14 @@
+# .gitignore
+
+# 특정 폴더 제외
+/*daily*/
+/*Excalidraw*/
+/*images*/
+/*가이드*/
+/*업무 모음*/
+/*업무 자료*/
+/*자소서*/
+/*환경설정*/
+artclRegistView 1.jsp
+artclRegistView 2.jsp
+artclRegistView.jsp
